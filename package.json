@@ -1,0 +1,25 @@
+{
+  "name": "zeromq-broker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pchero/zeromq-broker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pchero/zeromq-broker/issues"
+  },
+  "homepage": "https://github.com/pchero/zeromq-broker#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "uuid": "^3.1.0",
+    "websocket": "^1.0.25",
+    "zeromq": "^4.6.0"
+  }
+}
